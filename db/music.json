@@ -1,0 +1,56 @@
+[
+  {
+    "Titolo": "Shape of You",
+    "Autore": "Ed Sheeran",
+    "Anno": 2017,
+    "LinkImmagine": "./img/img1.jpeg"
+  },
+  {
+    "Titolo": "Blinding Lights",
+    "Autore": "The Weeknd",
+    "Anno": 2019,
+    "LinkImmagine": "./img/img2.jpeg"
+  },
+  {
+    "Titolo": "Bohemian Rhapsody",
+    "Autore": "Queen",
+    "Anno": 1975,
+    "LinkImmagine": "./img/img3.jpeg"
+  },
+  {
+    "Titolo": "Rolling in the Deep",
+    "Autore": "Adele",
+    "Anno": 2010,
+    "LinkImmagine": "./img/img4.jpeg"
+  },
+  {
+    "Titolo": "Imagine",
+    "Autore": "John Lennon",
+    "Anno": 1971,
+    "LinkImmagine": "./img/img5.jpeg"
+  },
+  {
+    "Titolo": "Happy",
+    "Autore": "Pharrell Williams",
+    "Anno": 2013,
+    "LinkImmagine": "./img/img6.jpeg"
+  },
+  {
+    "Titolo": "Bohemian Rhapsody",
+    "Autore": "Queen",
+    "Anno": 1975,
+    "LinkImmagine": "./img/img7.jpeg"
+  },
+  {
+    "Titolo": "Rolling in the Deep",
+    "Autore": "Adele",
+    "Anno": 2010,
+    "LinkImmagine": "./img/img8.jpeg"
+  },
+  {
+    "Titolo": "Imagine",
+    "Autore": "John Lennon",
+    "Anno": 1971,
+    "LinkImmagine": "./img/img9.jpeg"
+  }
+]
