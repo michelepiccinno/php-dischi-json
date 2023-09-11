@@ -15,20 +15,19 @@
 <body>
   <div id="app">
     <div class="background">
-      <div class="row row-cols-3 g-5">
-
-        <div class="col" v-for="track in tracks">
-          <div class="card text-white text-center">
-            <img :src=`{{track.LinkImmagine}}` alt="disc-image">
-
-          
-
-            <h4>{{track.Titolo}}</h4>
-            <h6>{{track.Autore}}</h6>
-            <h6>{{track.Anno}}</h6>
+      <div class="contaner m-5">
+        <div class="row row-cols-3 g-5">
+          <div v-for="track in tracks" class="col d-flex justify-content-center">
+            <div class="card text-white text-center p-4">
+              <div class="img-box">
+                <img :src="`./db/${track.LinkImmagine}`" class="w-100">
+              </div>
+              <h4>{{track.Titolo}}</h4>
+              <h6>{{track.Autore}}</h6>
+              <h6>{{track.Anno}}</h6>
+            </div>
           </div>
         </div>
-
       </div>
     </div>
   </div>
